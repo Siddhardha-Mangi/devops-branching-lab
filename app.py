@@ -12,3 +12,8 @@ def logout(username):
 greet()
 login("student1")
 logout("student1")
+
+def contact():
+    print("Email: devopslab@example.com")
+
+contact()
